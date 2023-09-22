@@ -18,6 +18,7 @@ Simple calculator written in C++ Builder. Enables basic mathematical operations.
 
 📸 Screen shots:  
 
+![Calc screen](https://github.com/Kacper657/Calculator/assets/127960359/4de7a659-67f8-4399-abb2-f48b8223921b)
 
 🔍 Requirements:
 - 🖥 Operating system: Windows
